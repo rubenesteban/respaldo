@@ -1,0 +1,33 @@
+nav.navbar {
+	height: 100px;
+}
+
+.main-menu {
+	justify-content: flex-end;
+}
+.jumbotron {
+    background-color: #ffe1bd;
+    flex-direction: column;
+}
+
+.colgray {
+    background-color: 	#e5e5e5;
+}
+
+.btn-primary {
+	background-color: #ffffff;
+	color: #000000;
+	border-color: #000000;
+	border-radius: 25px;
+	text-transform: lowercase;
+}
+
+.btn-primary:hover {
+	background-color: #000000;
+	color: #ffffff;
+	border-color: #ffffff;
+}
+
+.section-title {
+	text-align: center;
+}
